@@ -1,4 +1,4 @@
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Tyrant59
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Tyrant59
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -25,7 +25,7 @@ def is_enabled(value, default):
     else:
         return default
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Tyrant59
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
       
@@ -57,7 +57,7 @@ AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Second
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002033684483"))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002120299399')).split()]
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Tyrant59
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -69,7 +69,7 @@ BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Tyrant59
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -100,7 +100,7 @@ class Var(object):
 
 
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @Tyrant59
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
     
